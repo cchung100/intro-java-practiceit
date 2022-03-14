@@ -18,6 +18,5 @@ public class Difference {   // OBJ1
         // OBJ3 is the println statement below
         System.out.println("What is the difference between\na ' and a \"?  Or between a \" and a \\\"?\n\nOne is what we see when we're typing our program.\nThe other is what appears on the \"console.\"");
        // To show more examples of escape sequences, I wrote a single statement with multiple \n (new line) instead of a series of printlns.
-        System.out.println("");
     }
 }
