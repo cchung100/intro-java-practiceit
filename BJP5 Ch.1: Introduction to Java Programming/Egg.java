@@ -1,4 +1,3 @@
-
 /*
 ~ File Name: Egg.java
 ~ File Purpose: Egg.java is a solution for BJP5 Exercise 1.9: Egg. The prompt is below.
@@ -31,7 +30,7 @@ OBJ6. Call the methods in the main method to form the egg.
 */
 public class Egg {  // OBJ1
     public static void main(String[] args) {  // OBJ2
-       // OBJ 6, calling the methods
+       // OBJ6, calling the methods
         top();  // Call the method for the top
         middle();  // Call the method for the middle
         bottom();  // Call the method for the bottom
